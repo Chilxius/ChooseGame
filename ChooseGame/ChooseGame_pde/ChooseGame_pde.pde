@@ -1,11 +1,35 @@
 //Room data
 String [] description =
-  {
-    "Ye find yeself in a dungeon. Ye see a gate and a hole in the wall.",
-    "You are in the LEFT CHAMBER. Go left to return to start, go right to see the dog statue.",
-    "You went right",
-    "The dog statue is so cool."
-  };
+{
+  //0
+  "Welcome to FIND THE TREASURE ADVENTURE. Let's find the treasure. Go LEFT to the woods or RIGHT to the old factory. More text.",
+  //1
+  "The woods are dark. You shouldn't have come here at night. Head LEFT to the river or RIGHT to the cliffs.",
+  //2
+  "You went right",
+  //3
+  "The dog statue is so cool.",
+  //4
+  "The dog statue is so cool.",
+  //5
+  "The dog statue is so cool.",
+  //6
+  "The dog statue is so cool.",
+  //7
+  "The dog statue is so cool.",
+  //8
+  "The dog statue is so cool.",
+  //9
+  "The dog statue is so cool.",
+  //10
+  "The dog statue is so cool.",
+  //11
+  "The dog statue is so cool.",
+  //12
+  "The dog statue is so cool.",
+  //13
+  "The dog statue is so cool."
+};
 
 //Player's data
 int currentRoom = 0;
